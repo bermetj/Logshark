@@ -10,7 +10,7 @@ Issue
 
 If you are running LogShark on macOS Catalina 10.15, following error message is displayed:
 
-    * **LOgShark** cannot be opened because the developer cannot be verified. macOS cannot verify that this app is free from malware.*
+    * **LogShark** cannot be opened because the developer cannot be verified. macOS cannot verify that this app is free from malware.*
 
 
 Resolution
